@@ -1,0 +1,16 @@
+[submodule "IIC2233/syllabus-2020-1"]
+	path = IIC2233/syllabus-2020-1
+	url = git@github.com:IIC2233/syllabus-2020-1.git
+	branch = master
+[submodule "IIC2233/contenidos-2020-1"]
+	path = IIC2233/contenidos-2020-1
+	url = https://github.com/IIC2233/contenidos-2020-1
+	branch = master
+[submodule "IIC2143/proyecto"]
+	path = IIC2143/proyecto
+	url = git@github.com:IIC2143-2020-1/proyecto.git
+	branch = master
+[submodule "IIC2333/proyecto-redes-grupo-operativo"]
+	path = IIC2333/proyecto-redes-grupo-operativo
+	url = git@github.com:IIC2333/proyecto-redes-grupo-operativo.git
+	branch = master
